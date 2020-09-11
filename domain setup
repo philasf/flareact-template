@@ -1,0 +1,2 @@
+For originless workers, you can create a bogus A record with the target in the 192.0.2.0/24 range, eg 192.0.2.1, as per https://tools.ietf.org/html/rfc5737 37.
+For IPv6/AAAA records, anything within 2001:db8::/32 per https://tools.ietf.org/html/rfc3849 8
